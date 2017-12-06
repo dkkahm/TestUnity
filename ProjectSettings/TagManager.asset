@@ -6,6 +6,11 @@ TagManager:
   tags:
   - ARROW
   - ARROW_GIZMO
+  - BOARD
+  - BALL
+  - NAVIGATING_BOARD
+  - LIFTING_BOARD
+  - SENSOR
   layers:
   - Default
   - TransparentFX
@@ -15,7 +20,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - BOARD
   - 
   - 
   - 
